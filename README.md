@@ -60,6 +60,11 @@ View the list of classes (GET /classes)
 Book a class (POST /book) by filling the JSON form
 
 Get all bookings for an email (GET /bookings)
+```
+Running Tests
+Run unit tests with:
+
+pytest app/test_main.py
 
 
 
